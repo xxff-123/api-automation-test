@@ -27,6 +27,7 @@ pip install -r requirements.txt
 pytest -v
 
 ## 项目结构
+<<<<<<< HEAD
 - test.py  测试用例
 - requirements.txt  依赖
 - README.md  说明文档
